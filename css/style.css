@@ -1,0 +1,27 @@
+
+h1{
+    font-family: 'Anton';
+    font-size: 80px;
+}
+
+
+p {
+
+    font-family: 'Abyssinica SIL';
+    font-size: 25px;
+
+}
+
+
+
+button {
+    background-color: #0000ff;
+    color: #ffffff;
+
+    padding: 20px 80px;
+   
+}
+
+button:hover {
+    background-color: #008000;
+}
